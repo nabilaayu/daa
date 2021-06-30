@@ -149,3 +149,7 @@ class OptimizedSS {
         
     }
 }
+
+// ref: Zhang, S., Hu, Y., & Bian, G. (2017). Research on string similarity algorithm based on 
+// Levenshtein Distance. 2017 IEEE 2nd Advanced Information Technology, Electronic and 
+// Automation Control Conference (IAEAC), 2247-2251. https://doi.org/10.1109/IAEAC.2017.8054419.
